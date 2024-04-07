@@ -1,6 +1,6 @@
 # Deep-learning-for-automatic-diagnosis-of-lung-diseases
 
-This project consists of detecting lung diseases from 3D CT Scans. Different architectures of Neural Networks has been trained and tested to make the predictions.
+This project consists of detecting lung diseases from 3D CT Scans. Different architectures of Neural Networks have been trained and tested to make the predictions.
 
 The architectures developed include :
 
@@ -9,6 +9,6 @@ The architectures developed include :
 - Convolutional LSTM
 - 3D CNN
 
-The best architecture has an accuracy of **96%**, based on a test set of 200 CT Scans.
+The best model has an accuracy of **96%**, based on a test set of 200 CT Scans.
 
-**Technologies** : TensorFlow, Keras, OpenCV
+**Technologies** : Python, TensorFlow, Keras, OpenCV
